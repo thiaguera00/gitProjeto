@@ -1,2 +1,2 @@
-Estou aprendendo a usar o Git!!
-Basicamente irei explorar um pouco mais o comandos :)
+Estou aprendendo a usar o Git!!<br>
+Basicamente irei explorar um pouco mais os comandos :)
